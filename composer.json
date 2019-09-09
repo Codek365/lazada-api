@@ -1,12 +1,11 @@
 {
 	"name": "codek365/lazada-api",
 	"description": "Origin lazada api form open.lzada.com",
-	"authors": [
-		{
-			"name": "codek365",
-			"email": "codek365@gmail.com"
-		}
-	],
+	"license": "1.0",
+	"authors": [{
+		"name": "codek365",
+		"email": "codek365@gmail.com"
+	}],
 	"type": "library",
 	"minimum-stability": "dev",
 	"require": {},
